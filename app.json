@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "homepage":"https://github.com/DiegoEmanuel/reactRepositorio",
+    "name": "DuzzClean",
+    "slug": "teste",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.duzz.duzzclean"
+    }
+  }
+}
